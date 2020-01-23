@@ -8,7 +8,11 @@
     `virtualenv venv`
 3. Activate the environment:
     
+    On Linux: 
     `source venv/bin/activate`
+    
+    On Windows: 
+    `\venv\Scripts\activate.bat`
 4. Install pip dependencies
     `pip install -r requirements.txt`
 5. sif_reader will probably throw an error
