@@ -1,2 +1,0 @@
-numpy==1.18.1
-sif-reader==0.1.0

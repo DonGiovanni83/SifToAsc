@@ -3,3 +3,4 @@ venv
 new_dir
 .idea
 sif_to_asc_env
+*env*

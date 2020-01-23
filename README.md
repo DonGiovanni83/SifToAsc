@@ -5,12 +5,13 @@
 1. Clone the repository
 2. Create a virtual environment:
     
-    `virtualenv sif_to_asc_env`
+    `virtualenv venv`
 3. Activate the environment:
     
-    `source sif_to_asc_env/bin/activate`
+    `source venv/bin/activate`
 4. Install pip dependencies
     `pip install -r requirements.txt`
+5. sif_reader will probably throw an error
     
 ### Usage
 ` python sif_to_asc_converter.py source/directory output/directory `

@@ -10,7 +10,7 @@ import sys
 
 
 def main():
-    if sys.argv.__len__() != 3:
+    if len(sys.argv) != 3:
         print("To few arguments")
         exit(1)
 
