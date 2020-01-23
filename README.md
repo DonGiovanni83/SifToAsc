@@ -5,14 +5,14 @@
 1. Clone the repository
 2. Create a virtual environment:
     
-    `virtualenv venv`
+    `virtualenv venv` or `python3 -m venv venv`
 3. Activate the environment:
     
     On Linux: 
     `source venv/bin/activate`
     
     On Windows: 
-    `\venv\Scripts\activate.bat`
+    `.\venv\Scripts\activate.bat`
 4. Install pip dependencies
     `pip install -r requirements.txt`
 5. sif_reader will probably throw an error
